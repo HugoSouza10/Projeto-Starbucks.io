@@ -52,7 +52,7 @@ https://hugosouza10.github.io/Projeto-Starbucks.io/
  ### 💻 **Instalação do projeto:** 
  
  Para baixar o projeto é bem simples, por se tratar de um projeto simples, então
- basta você clonar o projeto para sua máquina, assim, você poderá ter acesso
+ basta você clonar o projeto para sua máquina, assim você poderá ter acesso
  ao código verificando como estruturei e pensei durante o processo de criação.
 
 
