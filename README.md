@@ -1,6 +1,7 @@
 <h1> STARBUCKS </h1>
 
-enter image description here
+![Starbucks-01](https://user-images.githubusercontent.com/51915862/135938780-a1f51e34-05d6-428b-9d7a-748ce2b43abe.png)
+
 
 ✍️<h2>O que é Starbucks? </h2>:
 Starbucks é uma empresa multinacional norte-americana, com a maior
