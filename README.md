@@ -4,8 +4,10 @@
 
 
 ✍️<h2>O que é Starbucks? </h2>
-Starbucks é uma empresa multinacional norte-americana com a maior
-cadeia de cafeterias do mundo.
+Starbucks é uma empresa multinacional norte-americana, com a maior cadeia de cafeterias do mundo.
+Tem sua sede na cidade de Seattle, estado de Washington. A companhia criou seu nome inspirada em 
+parte pelo personagem Starbuck, do livro Moby Dick, e seu logotipo é um entalhe escandinavo 
+do século XVI de uma sereia com duas caudas.
 
 📱 <h2>Descrição:</h2>
 Este projeto tem como ituito de mostrar minha habilidade como front-end
