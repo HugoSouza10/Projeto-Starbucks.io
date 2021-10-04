@@ -10,9 +10,10 @@ parte pelo personagem Starbuck, do livro Moby Dick, e seu logotipo é um entalhe
 do século XVI de uma sereia com duas caudas.
 
 📱 <h2>Descrição:</h2>
-Este projeto tem como ituito de mostrar minha habilidade como front-end
-nas tecnologias HTML5, CSS3 e JS. Portanto recriei este como forma de mostrar
-meus conhecimentos com essas tecnologias citadas.
+Este projeto tem como intuito de mostrar minha habilidade como front-end
+nas tecnologias HTML5, CSS3 e JS. Portanto recriei este projeto como forma de mostrar
+meus conhecimentos com essas tecnologias citadas. O layout do projeto não foi desenvolvido
+do zero, pois baixei ele de um site gratuito de imagem.
 
 
 💻 <h2>Tecnologias:</h2>
