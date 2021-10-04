@@ -14,9 +14,14 @@ Starbucks, uma das maiores cafeteiras do mundo.
 
 
 💻 <strong>Tecnologias:</strong>
-HTML 5
-CSS3
-JS
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>JS</li>
+</ul>
+
+
+
 
 ✍️ <strong>Processo de criação:</strong>
 O site foi desenvolvido com tags semânticas e também css grid na qual
