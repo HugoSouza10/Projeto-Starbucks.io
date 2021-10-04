@@ -49,5 +49,5 @@ puro mesmo.
 
 📊 <h2>Status do projeto:</h2>
 
-Projeto está 90% completo faltando apenas inserir um menu mobile, estou
-planejando um menu bem bacana com efeito e animação.
+O projeto está 90% completo, faltando apenas inserir um menu mobile. O menu
+estou planejando criando um menu hamburgue animado.
