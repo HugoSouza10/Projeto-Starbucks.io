@@ -1,4 +1,4 @@
-STARBUCKS
+<strong> STARBUCKS </strong>
 
 enter image description here
 
