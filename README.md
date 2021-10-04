@@ -24,10 +24,10 @@ Starbucks, uma das maiores cafeteiras do mundo.
 
 
 ✍️ <strong>Processo de criação:</strong>
-O site foi desenvolvido com tags semânticas e também css grid na qual
-possibilita criar diversas colunas de forma responsiva, além disso foi usado
+O site foi desenvolvido com tags semânticas e também com css grid na qual
+possibilita criar diversas colunas de forma responsiva. além disso foi usado
 flex-box e media quey para tornar a página responsiva para qualquer tipo
-de tela, seja mobile, desktop ou tablete.
+de tela. Como por exemplo: Mobile, Desktop ou tablet.
 
 enter image description here
 
@@ -36,7 +36,7 @@ https://hugosouza10.github.io/Projeto-Starbucks.io/
 
 💻 <strong>Instalação do projeto:</strong>
 Para baixar o projeto é bem simples, por se tratar de um projeto simples, então
-basta você clonar o projeto para sua máquina, assim, você poderá ter acesso
+basta você clonar o projeto para sua máquina. Você poderá ter acesso
 ao código verificando como estruturei e pensei durante o processo de criação.
 
 
