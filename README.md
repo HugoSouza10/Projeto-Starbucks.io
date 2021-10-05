@@ -10,7 +10,7 @@ parte pelo personagem Starbuck, do livro Moby Dick, e seu logotipo é um entalhe
 do século XVI de uma sereia com duas caudas.
 
 Link do projeto:
-https://hugosouza10.github.io/Projeto-Starbucks.io/
+https://hugosouza10.github.io/Projeto-Starbucks.io/ </br>
 
 
 📱 <h2>Descrição:</h2>
