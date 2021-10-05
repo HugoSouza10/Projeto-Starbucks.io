@@ -32,7 +32,10 @@ possibilita criar diversas colunas de forma responsiva. Além disso foi usado
 flex-box e media quey para tornar a página responsiva para qualquer tipo
 de tela, como por exemplo, Mobile, Desktop ou tablet.
 
-enter image description here
+
+![Mobile01- Starbucks](https://user-images.githubusercontent.com/51915862/135939999-9f1bb97c-1234-41b8-9e3e-f931ffd85820.png)
+
+
 
 Link do projeto:
 https://hugosouza10.github.io/Projeto-Starbucks.io/
