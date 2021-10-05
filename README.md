@@ -9,6 +9,10 @@ Tem sua sede na cidade de Seattle, estado de Washington. A companhia criou seu n
 parte pelo personagem Starbuck, do livro Moby Dick, e seu logotipo é um entalhe escandinavo 
 do século XVI de uma sereia com duas caudas.
 
+Link do projeto:
+https://hugosouza10.github.io/Projeto-Starbucks.io/
+
+
 📱 <h2>Descrição:</h2>
 Este projeto tem como intuito de mostrar minha habilidade como front-end
 nas tecnologias HTML5, CSS3 e JS. Portanto recriei este projeto como forma de mostrar
@@ -32,13 +36,15 @@ possibilita criar diversas colunas de forma responsiva. Além disso foi usado
 flex-box e media quey para tornar a página responsiva para qualquer tipo
 de tela, como por exemplo, Mobile, Desktop ou tablet.
 
+Link do projeto:
+https://hugosouza10.github.io/Projeto-Starbucks.io/
+
 
 ![Mobile01- Starbucks](https://user-images.githubusercontent.com/51915862/135939999-9f1bb97c-1234-41b8-9e3e-f931ffd85820.png)
 
 
 
-Link do projeto:
-https://hugosouza10.github.io/Projeto-Starbucks.io/
+
 
 💻 <h2>Instalação do projeto:</h2>
 Para baixar o projeto é bem simples. Por se tratar de um projeto simples, então
