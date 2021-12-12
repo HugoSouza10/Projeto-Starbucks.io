@@ -15,7 +15,7 @@ https://hugosouza10.github.io/Projeto-Starbucks.io/ </br>
 
 📱 <h2>Descrição:</h2>
 Este projeto tem como intuito de mostrar minha habilidade como front-end
-nas tecnologias HTML5, CSS3 e JS. Portanto recriei este projeto como forma de mostrar
+nas tecnologias HTML5 e CSS3. Portanto recriei este projeto como forma de mostrar
 meus conhecimentos com essas tecnologias citadas. O layout do projeto não foi desenvolvido
 do zero, pois baixei ele de um site gratuito de imagem.
 
