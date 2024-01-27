@@ -15,7 +15,7 @@ Este projeto tem como objetivo demonstrar minha habilidade como desenvolvedor fr
 ## Tecnologias:
 
 - HTML5
-- CSS3
+- CSS3 (com destaque para o CSS Grid)
 - JS
 
 ## Processo de criação:
